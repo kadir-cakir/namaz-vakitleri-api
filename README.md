@@ -1,4 +1,4 @@
-# namaz-vakti-api
+# namaz-vakitleri-api
 
 https://namaz-vakti.herokuapp.com/
 
